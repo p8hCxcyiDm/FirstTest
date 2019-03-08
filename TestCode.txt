@@ -1,6 +1,6 @@
 test
 test2
 test3
-test4
+changed line 4 in branch a
 added line from master
 added another line from master
