@@ -1,3 +1,3 @@
-# FirstTest
+# Sandbox project
 
-Just a test
+Use this project to get familiar with github.  
