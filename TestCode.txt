@@ -1,4 +1,4 @@
 test
-test2
+from branch b
 test3
 test4
