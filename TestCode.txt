@@ -1,4 +1,5 @@
 test
+from branch b
 from branch a
 test3
 test4
