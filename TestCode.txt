@@ -5,3 +5,4 @@ changed line 4 in branch a
 added line from master
 added another line from master
 new line 1
+bad line
