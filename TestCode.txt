@@ -6,3 +6,4 @@ added line from master
 added another line from master
 new line 1
 good line
+next new line
