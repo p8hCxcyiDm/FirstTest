@@ -1,2 +1,3 @@
 line before
+good line
 line after
