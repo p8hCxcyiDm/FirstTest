@@ -1,3 +1,2 @@
 start line
 normal line
-bad line
