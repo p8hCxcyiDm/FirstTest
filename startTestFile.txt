@@ -1,4 +1,2 @@
 start line
 normal line
-line in test
-line in master
