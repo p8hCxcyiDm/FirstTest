@@ -1,3 +1,4 @@
 start line
 normal line
 new line from master
+new line from a
