@@ -1,3 +1,4 @@
 start line
 line 1 from feature
 line 2 from feature
+line 1 from master
