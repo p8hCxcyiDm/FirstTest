@@ -1,4 +1,0 @@
-linux
-windows
-change from feature branch
-line from master
