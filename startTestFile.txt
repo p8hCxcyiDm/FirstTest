@@ -1,3 +1,1 @@
 start line
-line from master
-line from feature
